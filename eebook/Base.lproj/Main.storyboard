@@ -1018,6 +1018,7 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="i9K-GV-g7g" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="lYg-b7-mft">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
@@ -1271,8 +1272,8 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="48" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cMB-JM-nyC">
                                         <rect key="frame" x="44" y="89" width="326" height="951"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <mutableString key="text">(a)         國內嬰幼兒神經導管缺陷發生率，以1993年至2002年通報神經管缺陷之出生人口調查發現，十年來神經管缺陷發生率介於0.4- 1‰，平均發生率約為萬分之7。依據美國實證研究顯示，孕期 攝取足夠的葉酸可以預防胎兒腦及脊髓的先天性神經管缺陷的 比例，可減少50-70%胎兒的腦及脊髓的先天性神經管缺陷的發 生。根據國人膳食營養素參考攝取量(DRIs)育齡婦女每日建議攝 取400微克葉酸，準備懷孕婦女則在受孕前一個月至懷孕期間， 每日攝取600微克的葉酸，哺乳婦建議每日攝取500微克的葉 酸，以供自身與胎兒所需。 
-(b)         葉酸廣泛存在於許多食物中，如:綠色蔬菜、肝臟、豆類及水果 (如柑橘類)，都是豐富的來源，葉酸攝取建議應優先由天然食物 中多樣攝取。如果在日常飲食中攝取不足，建議在醫師處方指導 下，補充葉酸錠劑。</mutableString>
+                                        <string key="text">(a)         國內嬰幼兒神經導管缺陷發生率，以1993年至2002年通報神經管缺陷之出生人口調查發現，十年來神經管缺陷發生率介於0.4- 1‰，平均發生率約為萬分之7。依據美國實證研究顯示，孕期 攝取足夠的葉酸可以預防胎兒腦及脊髓的先天性神經管缺陷的 比例，可減少50-70%胎兒的腦及脊髓的先天性神經管缺陷的發 生。根據國人膳食營養素參考攝取量(DRIs)育齡婦女每日建議攝 取400微克葉酸，準備懷孕婦女則在受孕前一個月至懷孕期間， 每日攝取600微克的葉酸，哺乳婦建議每日攝取500微克的葉 酸，以供自身與胎兒所需。 
+(b)         葉酸廣泛存在於許多食物中，如:綠色蔬菜、肝臟、豆類及水果 (如柑橘類)，都是豐富的來源，葉酸攝取建議應優先由天然食物 中多樣攝取。如果在日常飲食中攝取不足，建議在醫師處方指導 下，補充葉酸錠劑。</string>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -1836,7 +1837,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XYy-3h-XCC">
                                 <rect key="frame" x="44" y="149" width="326" height="664"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <mutableString key="text">        如果你有晨吐或不適現象，那麼相信你在這個階段會變得舒服多了，因為不適現象會漸漸消失。大部份孕婦的狀態在懷孕中期都是最佳的 。建議你不要在懷孕期間染髮或電髮 ，有些孕婦的面上會出現一些疙瘩或斑點，通常稱為妊娠面斑或黃褐斑。只要避免直接曬太陽或利用帽子和雨傘等隔阻太陽光，情況便可以 改善。不用擔心，這些黑斑通常會在分娩後自動消失。當子宮不斷離開盤骨的位置膨脹的時候，你會察覺自己的身形已經很明顯是孕婦了。隨著子宮的慢慢挺起，你會感到以後有好幾個月，原 本擴大了的子宮壓在膀肛所產生的壓力可得到暫時的舒緩。</mutableString>
+                                <string key="text">        如果你有晨吐或不適現象，那麼相信你在這個階段會變得舒服多了，因為不適現象會漸漸消失。大部份孕婦的狀態在懷孕中期都是最佳的 。建議你不要在懷孕期間染髮或電髮 ，有些孕婦的面上會出現一些疙瘩或斑點，通常稱為妊娠面斑或黃褐斑。只要避免直接曬太陽或利用帽子和雨傘等隔阻太陽光，情況便可以 改善。不用擔心，這些黑斑通常會在分娩後自動消失。當子宮不斷離開盤骨的位置膨脹的時候，你會察覺自己的身形已經很明顯是孕婦了。隨著子宮的慢慢挺起，你會感到以後有好幾個月，原 本擴大了的子宮壓在膀肛所產生的壓力可得到暫時的舒緩。</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -1879,12 +1880,12 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="35" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uND-S5-gxV">
                                         <rect key="frame" x="0.0" y="0.0" width="326" height="839"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <mutableString key="text">        陰道分泌 你會發現陰道的分泌特別多，甚至需要使用衛生巾。如果分泌物有惡臭，跟平時的分泌物有異，帶有一點點血的話，你應該要詢問你的醫生。通常陰道的感染不會傳染到胎兒，因為子宮被一 層保護層包裹著，裡面是無菌狀態。你可能跟一些婦女一樣，懷孕初期間的性慾會減低。這是由於你變得容易疲倦，容易嘔吐，又或者對於自己體型的改變而感到憂慮，甚 至認為性交會對胎兒有害等想法所導致的。正常的體重增加 一般來說，整個懷孕期會帶給你25至35磅的增長，這是正常而且是提供胎兒成長所必須的增長。體重的增長步伐最好是漸進式的，不 宜過緩或過急。 
+                                        <string key="text">        陰道分泌 你會發現陰道的分泌特別多，甚至需要使用衛生巾。如果分泌物有惡臭，跟平時的分泌物有異，帶有一點點血的話，你應該要詢問你的醫生。通常陰道的感染不會傳染到胎兒，因為子宮被一 層保護層包裹著，裡面是無菌狀態。你可能跟一些婦女一樣，懷孕初期間的性慾會減低。這是由於你變得容易疲倦，容易嘔吐，又或者對於自己體型的改變而感到憂慮，甚 至認為性交會對胎兒有害等想法所導致的。正常的體重增加 一般來說，整個懷孕期會帶給你25至35磅的增長，這是正常而且是提供胎兒成長所必須的增長。體重的增長步伐最好是漸進式的，不 宜過緩或過急。 
 25-30%來自胎兒的體重 
 15%來自胎盤和羊水 
 20-25%來自增加了的脂肪 
 20%來自增加了的血液 
-15%來自乳房及子宮的增長</mutableString>
+15%來自乳房及子宮的增長</string>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -1973,7 +1974,7 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="42" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lbs-ae-vUY">
                                         <rect key="frame" x="-8" y="0.0" width="326" height="1015"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <mutableString key="text">        心口灼熱、便秘和痔瘡懷孕初期開始，為了令胎兒能在你進食的食物中吸取營養，你的消化系統會變得緩慢下來。如果你在懷孕初期沒有便秘的問題，那麼在懷 孕後期便很可能出現。你也有可能患上痔瘡，主要是由於胎兒頭部的壓迫﹐造成你肛門週圍的靜脈腫脹而形成痔瘡﹐遇上便秘時再用力 排便使痔瘡更加嚴重。你必須吃大量的水果、蔬菜、粗纖維的食物，以及大量的流質，尤其是白開水；經常做運動亦可以幫助消化。 妊娠紋和皮膚色素的轉變你會發覺肚皮，臀部和大腿位置都長出了妊娠紋。它的顏色是由淺至深紫色不等，但通常在產後會變為一條條銀色。你的乳頭和乳葷部份 也會變得深色，並且在肚皮中間開始有一條黑色的線伸延至肚皮下面。這些紋在分娩後會消失，但皮膚色素往往在分娩後也不可完全變回 原來的顏色。 你已順利進入了懷孕期最後的階段了。你的子宮頂部已貼近你的肚臍及胸骨的位置中間，令你有呼吸困難的感覺，尤其在上樓時會覺得特別辛苦。</mutableString>
+                                        <string key="text">        心口灼熱、便秘和痔瘡懷孕初期開始，為了令胎兒能在你進食的食物中吸取營養，你的消化系統會變得緩慢下來。如果你在懷孕初期沒有便秘的問題，那麼在懷 孕後期便很可能出現。你也有可能患上痔瘡，主要是由於胎兒頭部的壓迫﹐造成你肛門週圍的靜脈腫脹而形成痔瘡﹐遇上便秘時再用力 排便使痔瘡更加嚴重。你必須吃大量的水果、蔬菜、粗纖維的食物，以及大量的流質，尤其是白開水；經常做運動亦可以幫助消化。 妊娠紋和皮膚色素的轉變你會發覺肚皮，臀部和大腿位置都長出了妊娠紋。它的顏色是由淺至深紫色不等，但通常在產後會變為一條條銀色。你的乳頭和乳葷部份 也會變得深色，並且在肚皮中間開始有一條黑色的線伸延至肚皮下面。這些紋在分娩後會消失，但皮膚色素往往在分娩後也不可完全變回 原來的顏色。 你已順利進入了懷孕期最後的階段了。你的子宮頂部已貼近你的肚臍及胸骨的位置中間，令你有呼吸困難的感覺，尤其在上樓時會覺得特別辛苦。</string>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -2016,7 +2017,7 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="26" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XTU-ho-mwm">
                                         <rect key="frame" x="0.0" y="0.0" width="326" height="769"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <mutableString key="text">        在這個時候，你所增加的體重已經是懷孕期理想增長的百分之七十五了﹐而每週大概有一磅的增長。你可能會覺得自己很臃腫和容易失去 平衡，渾身都感到不舒適和不妥當。當你移動的時候，請保持良好的姿勢，而經常運動將會是減輕痛楚或避免受壓的最佳方法。背痛懷孕期間最常見的就是背脊下部的疼痛 如需要抱起幼童或重物件，可先彎曲雙腿坐下身體，再由大腿肌肉發力把東西抱起。適當的運動（如睡前可活動一下腳踝也可以），或穿著一些收緊的襪褲也能幫助防上腿部抽筋。如果腿部抽筋的情況持續，醫生可能會建 議你服食一些低磷質的鈣質補充劑。胎兒的位置醫生可診斷出現時和出生時胎兒的位置。</mutableString>
+                                        <string key="text">        在這個時候，你所增加的體重已經是懷孕期理想增長的百分之七十五了﹐而每週大概有一磅的增長。你可能會覺得自己很臃腫和容易失去 平衡，渾身都感到不舒適和不妥當。當你移動的時候，請保持良好的姿勢，而經常運動將會是減輕痛楚或避免受壓的最佳方法。背痛懷孕期間最常見的就是背脊下部的疼痛 如需要抱起幼童或重物件，可先彎曲雙腿坐下身體，再由大腿肌肉發力把東西抱起。適當的運動（如睡前可活動一下腳踝也可以），或穿著一些收緊的襪褲也能幫助防上腿部抽筋。如果腿部抽筋的情況持續，醫生可能會建 議你服食一些低磷質的鈣質補充劑。胎兒的位置醫生可診斷出現時和出生時胎兒的位置。</string>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -2112,8 +2113,8 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="42" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pnl-K4-PT0">
                                         <rect key="frame" x="0.0" y="0.0" width="326" height="929"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <mutableString key="text">        醫生會著你多留意胎兒的活動情況，這種方法看來雖然很簡單，但卻對了解最後幾週的懷孕期十分有幫助，尤其是當胎兒過了預產期仍未 有分娩跡象時，胎兒的活動情況變得十分重要。如果胎兒的活動頻度減少至每12個小時內低於十次的話，你應該立即通知醫生，這可 能是胎兒出現問題的一種訊號。你會感到十分疲倦，身型腫脹及不適的感覺，對分娩和嬰兒的來臨感到憂慮。　如果你還未開始放產假，這是個最適當的時候了。為入院作好準備 
-如果還未準備入院的用品，那麼你應該到你將會分娩的產房裡視察一下，了解清楚入院的手續和程序，若尚有任何問題，請盡量提出。每個孕婦出現這些現象的時間都不一樣。要記著，只有百分之四的孕婦會在預產期日分娩。 如果你是頭一次懷孕，就算有跡象分娩，或感到痛的話，除非羊水穿了，否則你還要等待12小時或以上才到達真正分娩的一刻。</mutableString>
+                                        <string key="text">        醫生會著你多留意胎兒的活動情況，這種方法看來雖然很簡單，但卻對了解最後幾週的懷孕期十分有幫助，尤其是當胎兒過了預產期仍未 有分娩跡象時，胎兒的活動情況變得十分重要。如果胎兒的活動頻度減少至每12個小時內低於十次的話，你應該立即通知醫生，這可 能是胎兒出現問題的一種訊號。你會感到十分疲倦，身型腫脹及不適的感覺，對分娩和嬰兒的來臨感到憂慮。　如果你還未開始放產假，這是個最適當的時候了。為入院作好準備 
+如果還未準備入院的用品，那麼你應該到你將會分娩的產房裡視察一下，了解清楚入院的手續和程序，若尚有任何問題，請盡量提出。每個孕婦出現這些現象的時間都不一樣。要記著，只有百分之四的孕婦會在預產期日分娩。 如果你是頭一次懷孕，就算有跡象分娩，或感到痛的話，除非羊水穿了，否則你還要等待12小時或以上才到達真正分娩的一刻。</string>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -2163,7 +2164,7 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="37" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sjZ-pH-GvA">
                                         <rect key="frame" x="0.0" y="0.0" width="326" height="913"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <mutableString key="text">        一般來說，預產期前後二週都是正常的生產時間，不過，醫師表示，通常超過預產期一週後，為了預防胎兒太大或是胎盤鈣化羊水太少等情形，醫師即會建議媽媽考慮接受催生。或是醫師在產檢的過程中，發現胎兒已經太大、生長遲滯、妊娠毒血症等問題，只要孕期超過33週，醫師也可能為了胎兒安全而要求媽媽催生。另外如果在待產過程中，子宮收縮不規則，效果不佳，醫師也會幫媽媽增加適量催生藥物，以幫助子宮收縮，或是已經破水超過24小時，為了怕感染，也會進行催生。醫師表示如果子宮頸尚未軟化，會先使用前列素栓劑使之軟化，再將催生藥物利用吃藥或打針的方式來幫產婦做催生，而催生後並不是馬上就會生了，有時可能經過幾個小時會出現生產徵兆，也有可能經過2-3天才會生產。另外，醫師表示，最好要求產婦全程在醫院及醫師監控中進行催生，以確保安全。</mutableString>
+                                        <string key="text">        一般來說，預產期前後二週都是正常的生產時間，不過，醫師表示，通常超過預產期一週後，為了預防胎兒太大或是胎盤鈣化羊水太少等情形，醫師即會建議媽媽考慮接受催生。或是醫師在產檢的過程中，發現胎兒已經太大、生長遲滯、妊娠毒血症等問題，只要孕期超過33週，醫師也可能為了胎兒安全而要求媽媽催生。另外如果在待產過程中，子宮收縮不規則，效果不佳，醫師也會幫媽媽增加適量催生藥物，以幫助子宮收縮，或是已經破水超過24小時，為了怕感染，也會進行催生。醫師表示如果子宮頸尚未軟化，會先使用前列素栓劑使之軟化，再將催生藥物利用吃藥或打針的方式來幫產婦做催生，而催生後並不是馬上就會生了，有時可能經過幾個小時會出現生產徵兆，也有可能經過2-3天才會生產。另外，醫師表示，最好要求產婦全程在醫院及醫師監控中進行催生，以確保安全。</string>
                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -2204,7 +2205,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4tQ-sv-vg5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1132" y="528"/>
+            <point key="canvasLocation" x="1077" y="528"/>
         </scene>
     </scenes>
     <resources>
